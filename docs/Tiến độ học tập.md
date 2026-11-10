@@ -30,6 +30,10 @@
 - By + V-ing = bằng cách...
 - Cụm từ: widely adopted, subsequent requests, underlying data, stale, balancing A against B.
 
+### Ngày 01 (giao 2026-11-10) — Logistics: last-mile delivery & order batching
+- Bài: docs/giai-doan-1/Ngày 01 - Last-mile delivery.md
+- Trạng thái: đã giao, chưa làm.
+
 ## Đang chờ
-- Viết lại ý chính đoạn caching trong 1 câu (có phần trade-off), thử thêm bản tiếng Anh dùng "comes at the cost of".
-- Chọn chủ đề cho bài đọc Ngày 1 (backend hoặc logistics).
+- Làm bài Ngày 01 và gửi câu trả lời.
+- (Nợ từ Buổi 0) Viết lại ý chính đoạn caching trong 1 câu, có phần trade-off — người học tạm hoãn vì bận.
